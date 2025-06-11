@@ -8,7 +8,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 
-import 'package:slashdown_editor/slashdown_editor.dart';
+import 'package:slashdown_markdown_editor/slashdown_editor.dart';
 
 void main() {
   testWidgets('SlashdownEditor smoke test', (WidgetTester tester) async {
